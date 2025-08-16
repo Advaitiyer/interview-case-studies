@@ -1,2 +1,3 @@
-# interview-case-studies
-Code Implementations for Case Study Interviews
+# Python or SQL based logics for Case Study Rounds
+1. Senior Marketing Analyst at Jane App (Apr 2025)
+2. Manager, Marketing Analytics at OpenTable (Aug 2025)
